@@ -1,7 +1,3 @@
-# With-CromaDB-Query
-Tamamdır, anladım. Kod bloğu içine hapsetmeden, doğrudan burada okunabilir bir formatta, Türkçe olarak ve projenin detaylarını tam yansıtacak şekilde yazıyorum.
-
-Aşağıdaki metni kopyalayıp GitHub'daki README.md dosyana yapıştırabilirsin.
 🔍 ChromaDB ile Video İçi Anlamsal Arama ve Özetleme
 
 Bu proje, video içeriklerini analiz etmek, anlamlı ana kareleri (keyframe) çıkarmak ve doğal dil sorguları kullanarak video içinde arama yapmak için geliştirilmiş yapay zeka tabanlı bir akıştır (pipeline).
